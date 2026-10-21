@@ -1,0 +1,9 @@
+{
+  "name": "dax-studio-learning-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "netlify dev"},
+  "engines": {"node": ">=20.6.0"},
+  "devDependencies": {"netlify-cli": "^23.0.0"}
+}
